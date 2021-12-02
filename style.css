@@ -1,7 +1,6 @@
 *{
     margin: 0;
     padding: 0;
-    text-align: center;
     text-decoration: none;
     list-style: none;
     color: #b0b0b0;
@@ -29,9 +28,47 @@ body{
 }
 
 #logo{
-    padding-right: 300px;
+    padding-right: 200px;
+    margin-left: 200px;
 }
 
 .universo{
     margin-top:600px;
 }
+
+.livro{
+    padding: 10px;
+    text-align: center;
+
+}
+
+.game{
+    padding: 10px;
+    text-align: center;
+}
+
+.serie{
+    padding: 10px;
+    text-align: center;
+}
+
+.imagemserie{
+    width:600px;
+    height:800px;
+}
+
+
+
+h2{
+    padding: 10px;
+    text-align: center;
+}
+
+p{
+    padding: 10px;
+    text-align: justify;
+}
+
+
+
+
