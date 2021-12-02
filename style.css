@@ -25,8 +25,13 @@ body{
 
 .inicio li a{
     color: #ffffff;
+    padding:10px;
+}
+
+#logo{
+    padding-right: 300px;
 }
 
 .universo{
-    margin-top:20px;
+    margin-top:600px;
 }
